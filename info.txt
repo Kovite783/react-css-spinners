@@ -8,3 +8,6 @@
 # 8 -  added some script to package.json:
     "lint": "eslint \"**/*.js\"",
     "lint:fix": "prettier-eslint \"**/*.js\" --write"
+
+# 9 - Setup Husky lint-staged https://github.com/typicode/husky https://github.com/okonet/lint-staged
+npm i -D husky lint-staged
