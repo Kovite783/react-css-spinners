@@ -11,3 +11,5 @@
 
 # 9 - Setup Husky lint-staged https://github.com/typicode/husky https://github.com/okonet/lint-staged
 npm i -D husky lint-staged
+
+# 10 -  Setup bundler : https://rollupjs.org/guide/en https://github.com/rollup/rollup  npm i -D rollup 

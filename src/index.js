@@ -1,1 +1,3 @@
-console.log('Heloo ' + 'my frind')
+const func = () => {}
+
+export default func
