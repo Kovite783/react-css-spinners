@@ -1,0 +1,10 @@
+# 1 - Create a git repo online then clone into our pc
+# 2 - npm init inside our repo
+# 3 - create an .editorconfig file: https://editorconfig.org/
+# 4 - create src and index.js file inside#
+# 5 - esling init and config @5.11.1 https://eslint.org/docs/user-guide/getting-started # standard guide
+# 6 - isntalled https://github.com/prettier/prettier-eslint
+# 7 - https://github.com/prettier/prettier-eslint-cli
+# 8 -  added some script to package.json:
+    "lint": "eslint \"**/*.js\"",
+    "lint:fix": "prettier-eslint \"**/*.js\" --write"
